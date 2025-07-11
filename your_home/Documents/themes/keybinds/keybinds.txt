@@ -1,0 +1,43 @@
+ Power control                          ctrl + P
+ Mount disks                            ctrl + M
+ Emojies                                 win + O
+ Open VS Code                            win + C
+ Open spotify                            win + S
+ Open Brave                              win + B
+ Kill process                            win + Q
+ Kill enviroment                         win + M
+ Full screen                             win + F
+ File maneger                            win + E
+ Log out                                 win + L
+ Kill waybar                             win + K
+ Start waybar                            win + J
+ Move focus left                         win + ⬅️
+ Move focus right                        win + ➡️
+ Move focus up                           win + ⬆️
+ Move focus down                         win + ⬇️
+ Move to workspace 1                     win + 1
+ Move to workspace 2                     win + 2
+ Move to workspace 3                     win + 3
+ Move to workspace 4                     win + 4
+ Move to workspace 5                     win + 5
+ Move to workspace 6                     win + 6
+ Move to workspace 7                     win + 7
+ Move to workspace 8                     win + 8
+ Move to workspace 9                     win + 9
+ Move to workspace 10                    win + 1
+ Themes                                  alt + C
+ Togglefloating                          alt + F
+ Rofi menu                               alt + A
+ Power menu                              alt + Z
+ Togglesplit                             alt + S
+ workspace 1                             alt + 1  
+ workspace 2                             alt + 2
+ workspace 3                             alt + 3 
+ workspace 4                             alt + 4
+ workspace 5                             alt + 5
+ workspace 6                             alt + 6
+ workspace 7                             alt + 7
+ workspace 8                             alt + 8
+ workspace 9                             alt + 9
+ workspace 10                            alt + 0
+ Screenshot                          PrintScreen

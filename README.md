@@ -1,5 +1,5 @@
 # Dotfiles
-Here you can find configs to your hyprland DE
+Here you can find configs to your hyprland
 
 Sorry, but here's no installer script. Some people asked me just to share my config files. You can modify configs, if you want to. 
 And if you want your hyprland looks like this one - follow the hints.
